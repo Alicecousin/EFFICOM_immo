@@ -1,0 +1,779 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"b",
+				"budget"
+			],
+			[
+				"ty",
+				"type_presta"
+			],
+			[
+				"pr",
+				"prix"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"on",
+				"onload	Attr"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"id",
+				"id_immo"
+			],
+			[
+				"bie",
+				"bien_immo"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"type",
+				"type_prestation"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"su",
+				"surface"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"s",
+				"surface"
+			],
+			[
+				"lo",
+				"localisation"
+			],
+			[
+				"location_",
+				"location_achat"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"lis",
+				"liste"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"n",
+				"nb_pieces"
+			],
+			[
+				"re",
+				"req	require …"
+			],
+			[
+				"const",
+				"__construct"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"btn-",
+				"btn-ajax-2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"bo",
+				"bounceInDown"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"ge",
+				"getElementsByTagName"
+			],
+			[
+				"getElement",
+				"getElementsByTagName"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"utili",
+				"utilisateurs"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"Arr",
+				"arreter"
+			],
+			[
+				"C",
+				"COUSIN"
+			],
+			[
+				"v",
+				"var_dump"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"sec",
+				"section	Tag"
+			],
+			[
+				"na",
+				"nav	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"t",
+				"target	Attr"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin-t",
+				"margin-bottom"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"r",
+				"rows	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "2-modules/ajout_bien/add_bien.php",
+			"settings":
+			{
+				"buffer_size": 1161,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "2-modules/ajout_bien/index.php",
+			"settings":
+			{
+				"buffer_size": 3632,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "1-class/immobilier.class.php",
+			"settings":
+			{
+				"buffer_size": 2634,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 66.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/TP2",
+		"/C/wamp/www/TP2/img",
+		"/C/wamp/www/TP2/img/immo_images",
+		"/C/wamp/www/TP2/img/immo_images/big",
+		"/C/wamp/www/TP2/img/immo_images/small"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/TP2/1-class/immobilier.class.php",
+		"/C/wamp/www/TP2/2-modules/ajout_bien/add_bien.php",
+		"/C/wamp/www/TP2/2-modules/ajout_bien/index.php",
+		"/C/wamp/www/TP2/index.php",
+		"/C/wamp/www/TP2/2-modules/recherche/index.php",
+		"/C/wamp/www/TP2/2-modules/fiche_produit/index.php",
+		"/C/wamp/www/TP2/css/style.css",
+		"/C/wamp/www/TP2/css/bootstrap.css",
+		"/C/wamp/www/TP2/0-config/config.php",
+		"/C/wamp/www/TP2/0-config/header.php",
+		"/C/wamp/www/TP2/css/responsive.css",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/Web #1 - HTML  CSS/Bootstrap/site_kato-shigeaki/index.html",
+		"/C/wamp/www/site_kato-shigeaki/index.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/Web #1 - HTML  CSS/Bootstrap/site_kato-shigeaki/css/responsive.css",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/Web #1 - HTML  CSS/Bootstrap/site_kato-shigeaki/css/style.css",
+		"/C/wamp/www/site_kato-shigeaki/index.php",
+		"/C/wamp/www/TP2/2-modules/utilisateurs/form.php",
+		"/C/wamp/www/TP2/2-modules/ajout_bien/form.php",
+		"/C/wamp/www/TP2/2-modules/produits/index.php",
+		"/C/wamp/www/TP2/2-modules/utilisateurs/index.php",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/Web #1 - HTML  CSS/Bootstrap/site_kato-shigeaki/index.php",
+		"/C/wamp/www/TP2/2-modules/ajout_bien/ajax.php",
+		"/C/wamp/www/TP2/2-modules/utilisateurs/rech.php",
+		"/C/wamp/www/TP2/connexion.php",
+		"/C/wamp/www/TP2/0-config/footer.php",
+		"/C/Users/COUSIN Alice/AppData/Local/Temp/7zO857B9826/style.css",
+		"/C/wamp/www/TP2/js/npm.js",
+		"/C/wamp/www/TP2/1-class/typePrestation.class.php",
+		"/C/wamp/www/TP2/1-class/nbPieces.class.php",
+		"/C/wamp/www/TP2/1-class/typeBien.class.php",
+		"/C/wamp/www/TP2/1-class/nbPiece.class.php",
+		"/C/wamp/www/TP2/1-class/bdd.class.php",
+		"/C/wamp/www/TP2/1-class/client.class.php",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/rapport_stage/PROJETS/PUBLIPOSTAGE/emailing/rentree_academique/2014_RA/Dossier Invitation_RA_210x99_2014_def/invitation_RA_invites.html",
+		"/C/wamp/www/Cours-Presta/prestashop/modules/themeconfigurator/css/theme8.css",
+		"/C/wamp/www/Cours-Presta/prestashop/modules/blocktopmenu/css/superfish-modified.css",
+		"/C/wamp/www/Cours-Presta/prestashop/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css",
+		"/C/wamp/www/TP_kiotis/wp-admin/css/colors/blue/colors.min.css",
+		"/C/wamp/www/TP_kiotis/wp-admin/css/colors/coffee/colors.css",
+		"/C/wamp/www/TP_kiotis/wp-admin/css/colors/ocean/colors.css",
+		"/C/wamp/www/TP_kiotis/wp-admin/css/themes.css",
+		"/C/wamp/www/TP_kiotis/wp-content/themes/dzonia-lite/footer.php",
+		"/C/wamp/www/TP_kiotis/wp-content/themes/dzonia-lite/functions/theme-options.php",
+		"/C/wamp/www/TP_kiotis/wp-content/themes/dzonia-lite/functions/css/colorpicker.css",
+		"/C/wamp/www/TP_kiotis/wp-content/themes/dzonia-lite/css/reset.css",
+		"/C/wamp/www/TP_kiotis/wp-content/themes/dzonia-lite/css/960_24_col.css",
+		"/C/wamp/www/Cours-Presta/Install_PrestaShop.html",
+		"/C/Users/COUSIN Alice/Desktop/testlimit.php",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/IMMOBILIER - Annonces immobilières _ De Particulier à Particulier - PAP.html",
+		"/C/wamp/www/TP_kiotis/wp-includes/update.php",
+		"/C/wamp/www/TP_kiotis/wp-includes/plugin.php",
+		"/C/wamp/www/kiotis/index.html",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/index.html",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/edition.html",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/index.php",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/alice-cousin.fr/illustration.html",
+		"/C/Users/COUSIN Alice/Desktop/Référencement naturel (SEO)/3. Exercice SEO  HTML/www/index.html",
+		"/C/wamp/www/TP2/2-modules/utilisateurs/ajax.php",
+		"/C/Users/COUSIN Alice/Desktop/form.php",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/PHP MySQL/testlimit.php",
+		"/C/wamp/www/cour_Jquery/index.php",
+		"/C/Users/COUSIN Alice/Desktop/rech.php",
+		"/C/Users/COUSIN Alice/Desktop/ajax.php",
+		"/C/wamp/www/cours_js/index.php",
+		"/C/wamp/www/index.html",
+		"/C/wamp/www/cours_js/js/code.js",
+		"/C/wamp/www/cour_Jquery/js/jquery.js",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/Javascript jquery/cours.html",
+		"/C/Users/COUSIN Alice/Desktop/bordel_neurologique/musiquedepub.html",
+		"/C/Users/COUSIN Alice/Desktop/bla.html",
+		"/C/wamp/www/php/test_sitedu0.php",
+		"/C/wamp/www/TP2/1-class/utilisateurs.class.php",
+		"/C/wamp/www/php/0000-CRWEB/index.php",
+		"/C/wamp/www/php/0000-CRWEB/exo_formulaire.html",
+		"/C/wamp/www/php/formulaire.php",
+		"/C/wamp/www/TP2/1-class/bdd.php",
+		"/C/wamp/www/TP2/2-module/utilisateurs/index.php",
+		"/C/wamp/www/php/recup.php",
+		"/C/wamp/www/php/fonction.php",
+		"/C/wamp/www/php/config.php",
+		"/C/wamp/www/php/index.php",
+		"/C/wamp/www/TP2/0_config/config.php",
+		"/C/wamp/www/TP2/2_modules/utilisateurs/index.php",
+		"/C/wamp/www/TP2/js/jquery.js",
+		"/F/TP2/3-css/animate.css",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/Web #1 - HTML  CSS/Bootstrap/site_kato-shigeaki/testmysql.php",
+		"/F/index.php",
+		"/C/Users/COUSIN Alice/Desktop/Lecture d'un message - mail Orange.html",
+		"/C/wamp/www/php/exo_formulaire.html",
+		"/C/wamp/www/php/formulaire.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/champignon_de_bruxelle/maquette/960-Grid-System-master/code/demo.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/PHP MySQL/00-cours-sql/test_sitedu0.php",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/Web #1 - HTML  CSS/Bootstrap/exo_1/index.html",
+		"/C/wamp/www/php/fonction.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/Web #1 - HTML  CSS/Bootstrap/exo_1/index.php",
+		"/C/wamp/www/cour_php/cour_php.php",
+		"/C/wamp/www/cour_php/cour_php.html",
+		"/C/wamp/www/pagetrois.html",
+		"/C/wamp/www/index.php",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/wamp/www/test_workpress/index.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/.htaccess.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/404.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/header.php",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/profil.html",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/photographie.html",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/numerique.html",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/illustration.html",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/css/style.css",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/lightbox/css/style.css",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/alice-cousin.fr/lightbox/css/style.css",
+		"/C/Users/COUSIN Alice/Desktop/alice-cousin.fr/edition2.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/alice-cousin.fr/index.html",
+		"/C/wamp/www/site_kato-shigeaki/css/style.css",
+		"/C/wamp/www/site_kato-shigeaki/css/responsive.css",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/alice-cousin.fr/about_me.html",
+		"/C/wamp/www/site_kato-shigeaki/lightbox.html",
+		"/C/wamp/www/css/style.css",
+		"/C/wamp/www/js/jquery.js",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/philippe_larrat/exo_1/pagedeux.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/philippe_larrat/exo_1/pagetrois.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/philippe_larrat/exo_1/css/style.css",
+		"/C/wamp/www/css/bootstrap.css",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/philippe_larrat/exo_1/page.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/philippe_larrat/exo_1/css/stylebootstap.css",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/philippe_larrat/exo_1/page_bootstrap.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/mon_site/illustration.html",
+		"/C/Users/COUSIN Alice/Desktop/work_in_progress/EFFICOM/HTML 5 CSS 3/page.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"margin:auto",
+			"center",
+			";\n",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "2-modules/ajout_bien/add_bien.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								922,
+								922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "2-modules/ajout_bien/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 23.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "1-class/immobilier.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2628,
+								2628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tp2.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"2-modules\\utilisateurs\\index.php"
+			],
+			[
+				"st",
+				"css\\style.css"
+			],
+			[
+				"g",
+				"C:\\Users\\COUSIN Alice\\Desktop\\work_in_progress\\EFFICOM\\HTML 5 CSS 3\\philippe_larrat\\exo_1\\css\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,132 @@
+body#fond{
+	background-image: url(../img/accueil.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.recherche{
+	display: block;
+	width: 100%;
+	float: left;
+	background-color: #ab4024;
+	padding: 10px 30px 10px 30px;
+}
+
+.recherche ul{
+display: block;
+width: 100%;
+float: left;
+
+}
+
+.recherche li{
+	display: block;
+	list-style-type: none;
+	width: 50%;
+	float: left;
+	padding: 10px; 
+}
+
+.recherche h1{
+	color: white;
+}
+
+.recherche label{
+	color: white;
+}
+
+.recherche a {
+	color: #333;
+}
+
+
+.recherche strong{
+	color: white;
+}
+
+.btn {
+	margin-top: 10px;
+}
+
+label{
+	margin: 3px;
+}
+
+footer{
+	display: block;
+	position:relative;
+	margin-top: 50px;
+	bottom: 0px;
+	width: 100%;
+	background-color: black;
+	padding: 7px;
+
+}
+
+footer p{
+text-align: center;
+}
+
+footer a{
+color: #747385;
+text-decoration: none;
+}
+
+footer a:hover{
+color: white;
+text-decoration: none;
+}
+
+
+/*style page recherche immo*/
+.red{
+	color: rgb(171,64,36);
+}
+img{
+	max-width: 100%;
+	vertical-align: middle;
+}
+.clear{
+	clear: both;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.text-center{
+	margin: 3%;
+}
+
+.lieux_foyer{
+	color: black;
+}
+
+.fixed{
+	/*position: fixed;*/
+	z-index:11;
+	width: 100%;
+}
+.cnt{
+	display: block;
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	height: 450px;
+}
+.detail{
+	margin-top: 10%;
+	padding: 10px;
+}
+.detail_content{
+	margin: 3% auto;
+	width: 30%;
+	text-align: justify;
+}
+
+.detail_content .img{
+	margin: auto;
+	width: 75%
+}
+.detail_content p{
+	text-align: center;
+}
+
